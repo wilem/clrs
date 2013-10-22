@@ -1,4 +1,4 @@
 clrs
 ====
 
-Source code of several algorithms(as described in CLRS), in C/C++/Python/JavaScript.
+Source code of algorithms in CLRS(Introduction to algorithm), written in C/C++/Python/JavaScript.
